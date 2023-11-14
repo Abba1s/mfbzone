@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="wrapper flex flex-col md:flex-row justify-around items-center  my-[56px]">
         <div>
           <img src={logo} alt="logo" />
-          <p className="max-w-[400px] text-white text-[18px] font-[500]">
+          <p className="max-w-[400px] text-white text-[18px] font-[500] mx-2">
             <span className="text-secondaryColor">PROCORE Estimators</span> are
             an industry leader in providing accurate and reliable construction
             cost estimation services. We specialize in Quantity and Material
